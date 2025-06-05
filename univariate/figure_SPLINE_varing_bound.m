@@ -2,7 +2,7 @@
 %
 % same cubic spline function, fixed rational degrees, varied bound
 %
-% NS, July21
+% NS, function 1
 
 clear
 close all
