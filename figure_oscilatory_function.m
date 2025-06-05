@@ -3,7 +3,7 @@
 % cos(9*x)+sin(11*x) over [-1,1]
 % (7,7) approximation
 %
-% NS, July21
+% NS, Figure 2
 
 clear
 close all
