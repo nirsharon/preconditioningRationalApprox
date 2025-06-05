@@ -2,7 +2,8 @@
 %
 % |x|^2/3 over [-1,2]
 % (6,4)
-% NS, July21
+%
+% NS, Figure 2
 
 clear
 close all
