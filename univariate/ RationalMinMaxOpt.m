@@ -16,7 +16,7 @@ function [p, q, zval] = RationalMinMaxOpt(f, n, m, pts, LB, UB, a, b, prc, vrb)
 % Run example:
 %  [p, q, z] = RationalMinMaxOpt(@(x) abs(x), 4, 4, linspace(-1,1,20), .1, 100, 1e-10, 1)
 %
-% Elior Kalfon, Nir Sharon, Feb 2020
+
 
 % verbose run
 if nargin < 10
