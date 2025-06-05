@@ -2,8 +2,7 @@ function [] = run_comparison(fun, a, b, n, m, l, u, to_save, trial_name)
 % A generic function for comparison
 %
 % rational approx (n,m) over [a,b] for 'fun'
-% 
-% NS,EK June 2021
+% A general subroutine
 
 
 % number of coeffs 
