@@ -2,7 +2,7 @@
 %
 % |x-.1| over [-1/2,1/2]
 % (6,6)
-% NS, July21
+% NS, extra example outside the paper
 
 clear
 close all
